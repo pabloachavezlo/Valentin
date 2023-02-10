@@ -1,0 +1,17 @@
+* {
+    margin: 0rem 0.5px;
+    padding: 0;
+    background-color: var(--color3);
+}
+
+html {
+    font-family:'Rubik', sans-serif;
+}
+
+:root {
+    --color1: black;
+    --color2:  aliceblue;
+    --color3:    rgb(233, 9, 54);
+    --color4:  darkred;
+    --color5:  rgba(202, 32, 97, 0.986);
+}
