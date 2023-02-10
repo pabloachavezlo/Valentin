@@ -1,4 +1,4 @@
-@media screen and (min-width: 120px) and (max-width: 320px){
+@media screen and (min-width: 120px) and (max-width: 1000px){
     header {
         width: 100%;
     }
@@ -6,12 +6,12 @@
     .Textos_1 {
         width: 100%;
         height: 100%;
+        align-items: center;
     }
 
     .Textos_1 h1 {
         font-family: 'Pacifico', cursive;
-        align-items: center;
-        margin: 2rem 2rem;
+        margin: 2rem 15rem;
     }
 
     .Textos_1 h4 {
